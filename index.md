@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Oscar Uribe - Web Developer</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="top-container">
+    <img class="top-cloud" src="images/cloud.png" alt="cloud-image">
+    <h1>I'm Oscar.</h1>
+    <h2>a <span class="pro">pro</span>grammer</h2>
+    <img class="bot-cloud" src="images/cloud.png" alt="cloud-image">
+    <img src="images/mountain.png" alt="mountain-image">
+  </div>
+
+  <div class="middle-container">
+    <div class="profile">
+      <img class="profile-pic"src="images/oscar.png" alt="oscar-picture">
+      <h2>Hello.</h2>
+      <pc class="intro-paragraf">I'm a student of sistems engineer and web Develompent, who want to learn and do a lot of things.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2 class="my-skills-heading">My Skills.</h2>
+      <div class="skill-row">
+        <img class="code-image" src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" alt="coding-image">
+        <h3>Web Develompent</h3>
+        <p class="code-skill-description">Actually i'm learning how to make Web Develompent, but soon i'm gonna be a master of coding and web desing.</p>
+      </div>
+      <div class="skill-row">
+        <img class="py-image" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python">
+        <h3>Python coding</h3>
+        <p class="py-skill-description">Rigth now i only know how to declare variables and code a calculator, but soon on the university i'm gonna learn a lot of things about python and data-cience.</p>
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>When you see this maybe im a senior programmer so maybe i can help u.</h3>
+      <p class="contact-me-paragraf">If you are interested to talk with me don't be shy to send me a message.</p>
+      <a class="btn" href="mailto:oscaravila2106@email.com">CONTACT ME</a>
+    </div>
+  </div>
+
+
+  <div class="bottom-container">
+    <a class="footer-link-one" href="https://www.linkedin.com/in/oscar-uribe-08b369213/">LinkedIn</a>
+    <a class="footer-link-two" href="https://www.instagram.com/oscaruribeavila/">Instagram</a>
+    <a class="footer-link-three" href="https://www.appbrewery.co/">Website</a>
+    <p class="copy-right">© 2022 Oscar Uribe.</p>
+  </div>
+</body>
+
+</html>
